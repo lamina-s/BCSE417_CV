@@ -1,0 +1,49 @@
+### Task 1: Image Negative Transformation
+**Objective:** Create an image negative using Python.
+
+**Steps:**
+1. Load a grayscale image.
+2. Apply the image negative transformation.
+3. Display the original and the negative image.
+
+---
+
+### Task 2: Gamma Correction
+**Objective:** Apply gamma correction with different gamma values.
+
+**Steps:**
+1. Load a grayscale image.
+2. Apply gamma correction with γ = 0.5, γ = 1.0, and γ = 2.0.
+3. Display the original and the gamma-corrected images.
+
+---
+
+### Task 3: Log Transform
+**Objective:** Apply log transformation to enhance an image.
+
+**Steps:**
+1. Load a grayscale image.
+2. Apply log transformation.
+3. Display the original and the log-transformed image.
+
+---
+
+### Task 4: Compare Transformations
+**Objective:** Compare the effects of different transformations.
+
+**Steps:**
+1. Load a grayscale image.
+2. Apply image negative, gamma correction (γ = 2.0), and log transformation.
+3. Display the original image alongside the transformed images for comparison.
+
+---
+
+### Task 5: Apply Transformations to Color Images
+**Objective:** Apply the transformations to a color image by processing each channel separately.
+
+**Steps:**
+1. Load a color image.
+2. Split the image into its R, G, and B channels.
+3. Apply image negative, gamma correction, and log transformation to each channel.
+4. Merge the channels back together.
+5. Display the original and the transformed images.
