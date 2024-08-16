@@ -1,2 +1,2 @@
 # BCSE417_CV
-Tasks for BCSE417P Computer Vision
+Assignment codes for BCSE417P Computer Vision
