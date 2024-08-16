@@ -1,0 +1,37 @@
+Task 1: Basic Image Statistics and Color Space Conversion
+
+Objective:
+Compute basic statistics and convert an image into different color spaces.
+
+Steps:
+1. Read the Image: Load an image using OpenCV.
+
+2. Compute Basic Statistics: Calculate the mean, standard deviation, and histogram of each color channel.
+
+3. Convert Color Spaces: Convert the image to HSV and Lab color spaces and display the results.
+------------------------------------------------------------------------------------------------------------------------
+Task 2: Simple Image Segmentation Using Thresholding
+
+Objective:
+Segment an image into foreground and background using global thresholding.
+
+Steps:
+1. Read the Image: Load a grayscale image.
+
+2. Apply Thresholding: Use a fixed threshold value to segment the image.
+
+3. Display Results: Show the original and segmented images.
+------------------------------------------------------------------------------------------------------------------------
+Task 3: Color-Based Segmentation
+
+Objective:
+Segment specific objects in an image based on their color.
+
+Steps:
+1. Read the Image: Load an image with objects of different colors.
+
+2. Convert to HSV: Convert the image to HSV color space.
+
+3. Apply Color Thresholding: Use color thresholds to segment objects of a specific color.
+
+4. Display Results: Show the original and segmented images.
